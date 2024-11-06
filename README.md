@@ -1,15 +1,11 @@
-
 # Hi there 👋
 
-## I'm an Artificial Intelligence Engineering Student at [TOBB University of Economics and Technology](https://etu.edu.tr/en/)
+## I'm İsmail Buğra Öz, a Junior Data Scientist at [Jotform](https://www.jotform.com/)
 
-- :mortar_board: I'm currently studying at [TOBB University of Economics and Technology](https://etu.edu.tr/en/).
-- :computer: I'm currently working on [**Deep Learning**](https://en.wikipedia.org/wiki/Deep_learning) and [**Machine Learning**](https://en.wikipedia.org/wiki/Machine_learning) projects.
-- :calendar: I have been coding since 2017 _(you can check my [GitHub Timeline](https://github.com/ismailbgr?tab=overview&from=2017-12-01&to=2017-12-31#js-yearly-contributions:~:text=238%20contributions%20in%202017) to verify this)_
-- ⚡ Languages: **Python** | **Java** | **JavaScript** | **C** | **SQL**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ismail-bu%C4%9Fra-%C3%B6z-81b30b203/) | [Instagram](https://www.instagram.com/ismailbugraoz/) | [YouTube](https://www.youtube.com/channel/UCPAV68-nwsAErJMhAAijVmA)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbgr&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbgr&layout=compact&theme=radical)
+- :briefcase: Currently working as a **Junior Data Scientist** in the Turing AI Team at [Jotform](https://www.jotform.com/).
+- :mortar_board: Graduated in **Artificial Intelligence Engineering** from [TOBB University of Economics and Technology](https://etu.edu.tr/en/), among the first in the program.
+- :computer: Passionate about **Deep Learning** and **Machine Learning**, currently working on projects in **Natural Language Processing** and **Computer Vision**.
+- ⚙️ Skilled in **Python**, **Java**, **JavaScript**, **C**, and **SQL** with hands-on experience in **TensorFlow**, **PyTorch**, **OpenCV**, and other key AI libraries.
+- :calendar: Coding since 2017 — check out my [GitHub Timeline](https://github.com/ismailbgr?tab=overview&from=2017-12-01&to=2017-12-31#js-yearly-contributions:~:text=238%20contributions%20in%202017) for the journey!
+- 🌱 Constantly learning and exploring new AI techniques, currently focused on **language model evaluation** and **large-scale machine learning applications**.
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ismail-bu%C4%9Fra-%C3%B6z-81b30b203/) | [Instagram](https://www.instagram.com/ismailbugraoz/)
