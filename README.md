@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm İsmail Buğra Öz, a Junior Data Scientist at [Jotform](https://www.jotform.com/)
+## I'm İsmail Buğra Öz, an AI Engineer at [Jotform](https://www.jotform.com/)
 
 - :briefcase: Currently working as a **Junior Data Scientist** in the Turing AI Team at [Jotform](https://www.jotform.com/).
 - :mortar_board: Graduated in **Artificial Intelligence Engineering** from [TOBB University of Economics and Technology](https://etu.edu.tr/en/), among the first in the program.
